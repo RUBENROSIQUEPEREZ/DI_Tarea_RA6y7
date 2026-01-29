@@ -4,7 +4,7 @@
 Esta es la versión inicial de la aplicación para gestionar reservas de títulos de videojuegos de forma sencilla.
 
 ## Versión
-1.0.0 - Versión Básica
+2.0.0 - Versión Mejorada
 
 ## Tecnologías Implicadas
 * Java (Estructura de clases)

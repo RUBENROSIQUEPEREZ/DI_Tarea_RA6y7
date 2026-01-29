@@ -1,4 +1,4 @@
-# Aplicación de Reserva de Videojuegos - V2 
+# Aplicación de Reserva de Videojuegos - Version 2
 
 ## Descripción
 Esta es la versión inicial de la aplicación para gestionar reservas de títulos de videojuegos de forma sencilla.

@@ -12,7 +12,7 @@ Esta es la versión inicial de la aplicación para gestionar reservas de título
 * IntelliJ IDEA
 
 ## Autor
-[Tu Nombre y Apellidos]
+Ruben Rosique Perez
 
 ## Fecha
 29 de enero de 2026

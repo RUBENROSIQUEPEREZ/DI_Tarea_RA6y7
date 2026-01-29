@@ -3,7 +3,7 @@ package videojuegos;
 
 public class Videojuego {
 
-    //Titulo del viedojuego
+    //Titulo del game
     private String titulo;
 
     private double precio;
